@@ -1,11 +1,8 @@
 
-.span {
-   display: inline;
-}
-
 .box {
   min-height: 20px;
   width: 10px;
+  display: inline;
 }
 
 .white {
