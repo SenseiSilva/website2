@@ -21,3 +21,7 @@
 .green {
   background-color: #FFEC0D;
 }
+
+.div {
+   display: inline;
+}
