@@ -1,4 +1,8 @@
 
+.div {
+   display: inline;
+}
+
 .box {
   min-height: 100px;
   width: 30%;
@@ -22,6 +26,3 @@
   background-color: #FFEC0D;
 }
 
-.div {
-   display: inline;
-}
