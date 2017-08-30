@@ -1,0 +1,23 @@
+
+.box {
+  min-height: 100px;
+  width: 30%;
+  margin: auto;
+}
+
+.white {
+	  background-color: #fff;
+	  min-height:150px;
+}
+
+.dark_blue {
+  background-color: #99D139;
+}
+
+.light_blue {
+  background-color: #14A84F;
+}
+
+.green {
+  background-color: #FFEC0D;
+}
