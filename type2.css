@@ -3,6 +3,7 @@
   min-height: 100px;
   width: 30%;
   margin: auto;
+  display: inline;
 }
 
 .white {
