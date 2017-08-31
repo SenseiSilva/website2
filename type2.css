@@ -1,7 +1,10 @@
 
+.box2 {
+  width: 4vh;
+}
 .box {
   min-height: 60vh;
-  width: 4vh;
+  width: 5vh;
   display: inline-table;
   margin: auto;
   text-align: center;
