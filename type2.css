@@ -1,6 +1,6 @@
 
 .box {
-  min-height: 100vh;
+  min-height: 50vh;
   width: 5vh;
   display: inline-table;
   margin: auto;
